@@ -1,0 +1,15 @@
+atlasId,atlasName,cohortId,name
+247,Influenza narrow - with prior observation - 2009-2010 season,1,Influenza narrow - with prior observation - 2009-2010 season
+248,Influenza narrow - with no prior observation required - 2009-2010 season,2,Influenza narrow - with no prior observation required - 2009-2010 season
+249,Influenza broad - with prior observation - 2009-2010 season,3,Influenza broad - with prior observation - 2009-2010 season
+250,Influenza broad - with no prior observation required - 2009-2010 season,4,Influenza broad - with no prior observation required - 2009-2010 season
+251,Influenza narrow - with prior observation - 2014-2019 seasons,5,Influenza narrow - with prior observation - 2014-2019 seasons
+252,Influenza narrow - with no prior observation required - 2014-2019 seasons,6,Influenza narrow - with no prior observation required - 2014-2019 seasons
+253,Influenza broad - with prior observation - 2014-2019 seasons,7,Influenza broad - with prior observation - 2014-2019 seasons
+254,Influenza broad - with no prior observation required - 2014-2019 seasons,8,Influenza broad - with no prior observation required - 2014-2019 seasons
+243,COVID-19 narrow - with prior observation,21,COVID-19 narrow - with prior observation
+244,COVID-19 narrow - no prior observation required,22,COVID-19 narrow - no prior observation required
+245,COVID-19 broad - with prior observation,23,COVID-19 broad - with prior observation
+246,COVID-19 broad - no prior observation required,24,COVID-19 broad - no prior observation required
+272,COVID-19 narrow - no prior observation required [CUIMC],25,COVID-19 narrow - no prior observation required [CUIMC]
+273,COVID-19 narrow - with prior observation [CUIMC],26,COVID-19 narrow - with prior observation [CUIMC]
